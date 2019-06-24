@@ -1,5 +1,5 @@
 ## CS 464P/565 - Summer 2019
-## Homework #1
+## Homework 1
 
 ### HTML - 13 pts
 
