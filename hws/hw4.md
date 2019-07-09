@@ -31,7 +31,7 @@
 
 Due at **Sunday (7/28) at 11pm** on the [cs465.oregonctf.org](http://cs465.oregonctf.org) submission server. You must also keep track of your code via version control; you will lost up to 10% of your grade if you do not. (Note: There is nothing to turn in on D2L.)
 
-#### Total Points
+### Total Points
 
 - Undergraduate Students - 31 pts
 - Graduate Students - 36 pts
